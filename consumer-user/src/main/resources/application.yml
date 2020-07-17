@@ -1,0 +1,6 @@
+dubbo:
+  application:
+    name: consumer-user
+  # 注册中心
+  registry:
+    address: zookeeper://10.56.28.200:2181
